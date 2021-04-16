@@ -6,7 +6,7 @@
 <title>BARBERACADEMY</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
-<link href="{{ asset('/css/templatemo-style.css')}}" rel="stylesheet" type="text/css" />
+<link href="{{secure_asset('/css/templatemo-style.css')}}" rel="stylesheet" type="text/css" />
 <script language="javascript" type="text/javascript">
 <style>
 
