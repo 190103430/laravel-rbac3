@@ -57,7 +57,7 @@ function clearText(field)
                 <div class="project_more">
                 	<a href="#"></a></div>
             </div>
-        </div><!-- End Of header -->
+        </div>
         
         <div id="project_content">
         	<div id="project_content_top">
@@ -112,7 +112,7 @@ function clearText(field)
 					  </div>
                         
                         <div class="cleaner"></div>
-                    </div><!-- End Of Left-->
+                    </div>
                     
                     <div id="project_right">
                     	<div id="project_right_top">                        
@@ -127,12 +127,12 @@ function clearText(field)
                       </div>               
                         <div id="project_right_bottom">
                         </div>
-                    </div><!-- End Of Right-->
+                    </div>
                     
                     <div class="cleaner"></div>
-                </div><!-- End Of Content Bottom-->
-            </div><!-- End Of Content Top-->
-        </div><!-- End Of Content-->
+                </div>
+            </div>
+        </div>
     	<div id="project_bottom_panel">
         	<div id="bottom_top">
                 
