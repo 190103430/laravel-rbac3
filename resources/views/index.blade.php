@@ -6,23 +6,20 @@
 <title>BARBERACADEMY</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
-<link href="{{secure_asset('/css/templatemo-style.css')}}" rel="stylesheet" type="text/css" />
+<link href="{{secure_asset('/css/project.css')}}" rel="stylesheet" type="text/css" />
 <script language="javascript" type="text/javascript">
 <style>
 
 </style>
 function clearText(field)
-{
-    if (field.defaultValue == field.value) field.value = '';
-    else if (field.value == '') field.value = field.defaultValue;
-}
+
 </script>
 </head>
 <body>
 
-	<div id="templatemo_container">
-    	<div id="templatmeo_header">
-        	<div id="templatemo_menu">
+	<div id="project_container">
+    	<div id="project45_header">
+        	<div id="project_menu">
             	<ul>
                     <li><a href="#" class="current">@lang('home.home_menu')</a></li>
                     <li><a href="#">@lang('home.gallery_menu')</a></li>
@@ -34,7 +31,7 @@ function clearText(field)
                 </ul> 
             </div>
             <div class="from-inline my-2 my-lg-0">
-            <ul id="templatemo_menu">
+            <ul id="project_menu">
             <li class ="nav-item">
             <a class="nav-link" href="locale/en"><img src="images/ca08cf6a0a3b39e838131599c8194b8f23346714.png" width="30" height="20"  /> English</a>
             </li>
@@ -44,29 +41,29 @@ function clearText(field)
 
             </ul>
             </div>
-            <div id="templatemo_logo_area">
-            	<div id="templatemo_logo">
+            <div id="project_logo_area">
+            	<div id="project_logo">
                 	ELEGANCE</div>
             </div>
             
-            <div class="templatemo_welcome">
+            <div class="project_welcome">
             	<h1>@lang('home.TM_BARBER_ACADEMY')</h1>
                 <p>@lang('home.-ThisisthefirstandonlybarberschoolinKazakhstan.')</p>
                 
-                <div class="templatemo_more">
+                <div class="project_more">
                 	<a href="#"></a>
                 </div>
                 
-                <div class="templatemo_more">
+                <div class="project_more">
                 	<a href="#"></a></div>
             </div>
         </div><!-- End Of header -->
         
-        <div id="templatemo_content">
-        	<div id="templatemo_content_top">
-            	<div id="templatemo_content_bottom">
+        <div id="project_content">
+        	<div id="project_content_top">
+            	<div id="project_content_bottom">
                 	<div id="templaetmo_left">
-                    	<div class="templatemo_one_col">
+                    	<div class="project_one_col">
                         	<h1>@lang('home.Advantagesofworkingasabarber')</h1>
                             <a href="#"><img src="images/e199482176e942e1ab2fe1080d8a34fb.jpg" width="295" height="170"  /></a>
                           <p>@lang('home.Barberisnot')</p>
@@ -74,9 +71,9 @@ function clearText(field)
                             
                         </div>
                                               
-                        <div class="templatemo_h_line"></div>
+                        <div class="project_h_line"></div>
                         
-                        <div class="templatemo_one_col">
+                        <div class="project_one_col">
                         	<h1>@lang('home.HOWDOWEWORK?')</h1>
                             
                             <img src="images/a774b68c2d4fc256b93211567d678ef8127b2c80_12801421017118.jpg" alt="Icon" width="295" height="170" />
@@ -86,14 +83,14 @@ function clearText(field)
                             
                         </div>
                         
-                        <div class="templatemo_h_line"></div>
+                        <div class="project_h_line"></div>
                         
-                        <div class="templatemo_section_1">
+                        <div class="project_section_1">
                         	<h1>@lang('home.OurAdvantages')</h1>
-                            <div class="templatemo_h_line_2"></div>
+                            <div class="project_h_line_2"></div>
              
                             
-                            <ul class="templatemo_list">
+                            <ul class="project_list">
                             	<li><a href="#"></a></li>
                                 <li><a href="#">@lang('home.Good earnings')</a></li>
                                 <li><a href="#">@lang('home.Friendly team')</a></li>
@@ -103,11 +100,11 @@ function clearText(field)
                             
                         </div>
                         
-                        <div class="templatemo_v_line"></div>
-                        <div class="templatemo_section_2" >
+                        <div class="project_v_line"></div>
+                        <div class="project_section_2" >
 							
                         	<h1>@lang('home.Contact Info')</h1>
-                            <div class="templatemo_h_line_2"></div>
+                            <div class="project_h_line_2"></div>
                             <p>@lang('home.Tel: +77775702244')<br />
                             Whatsapp:+77775554422<br />
                             Email: 190103430@stu.sdu.edu.kz<br />
@@ -117,18 +114,18 @@ function clearText(field)
                         <div class="cleaner"></div>
                     </div><!-- End Of Left-->
                     
-                    <div id="templatemo_right">
-                    	<div id="templatemo_right_top">                        
+                    <div id="project_right">
+                    	<div id="project_right_top">                        
                         	<h6>@lang('home.Our Certificates')</h6>
                         </div>     
-                        <div id="templatemo_right_mid">
+                        <div id="project_right_mid">
                         	<div id="right_mid_top">
 								<a href="#"><img src="images/certificate-of-participation-3.png" alt="City" width="293" height="170" /></a>
                                 <a href="#"><img src="images/Certificate-student-3-TemplateLab.com_-e1542525882593.jpg" alt="Sunset" width="292" height="170" /></a>
                                
                                 <a href="#"><img src="images/certificate-golden-purple.jpg" alt="Beach" width="293" height="170" /></a> </div>
                       </div>               
-                        <div id="templatemo_right_bottom">
+                        <div id="project_right_bottom">
                         </div>
                     </div><!-- End Of Right-->
                     
@@ -136,10 +133,10 @@ function clearText(field)
                 </div><!-- End Of Content Bottom-->
             </div><!-- End Of Content Top-->
         </div><!-- End Of Content-->
-    	<div id="templatemo_bottom_panel">
+    	<div id="project_bottom_panel">
         	<div id="bottom_top">
                 
-            	<div class="templatemo_bottom_3_col">
+            	<div class="project_bottom_3_col">
 	               	<h1>@lang('home.Necessary documents for the portfolio')</h1>
                     <p>@lang('home.Photo 4*4')</p>
                 	<p>@lang('home.Copy of the certificate')</p>
@@ -147,7 +144,7 @@ function clearText(field)
                     <p>@lang('home.The answer to the question why do you want to become a barber')</p>
               </div>
                 
-                <div class="templatemo_bottom_3_col">
+                <div class="project_bottom_3_col">
                 	<h1>@lang('home.Video explanation how to upload a portfolio')</h1>
                     <video  controls class="img-fluid project-gallery-img" width="250px" >
 							<source src="images/Заполнение документа с помощью модуля _Распознавание паспортов_.mp4" type="video/mp4">
@@ -156,7 +153,7 @@ function clearText(field)
                 
               </div>
                 
-                <div class="templatemo_bottom_3_col">
+                <div class="project_bottom_3_col">
                 
                 <h1>@lang('home.Contact Us')</h1>
                 	<form action="#" method="post">
@@ -218,10 +215,10 @@ function clearText(field)
 </div>
             </div>
         </div>
-        <div id="templatemo_bottom_bottom">
+        <div id="project_bottom_bottom">
         </div>
         
-        <div id="templatemo_footer">
+        <div id="project_footer">
         Copyright © 2021 <a>BARBERACADEMY</a> 
        
     </div>
