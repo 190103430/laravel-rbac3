@@ -34,7 +34,7 @@ h1 {
 }
 
 #project_container {
-	background: url(images/templaetmo_container_bg.jpg) no-repeat top;
+	background: url(images/_container_bg.jpg) no-repeat top;
 	width: 1024px;
 	margin: auto;
 }
@@ -304,7 +304,7 @@ h1 {
 
 .project_h_line {
 	height: 10px;
-	background:url(images/templaetmo_one_col_bottom.png) center;
+	background:url(images/_one_col_bottom.png) center;
 	margin: 0 0 10px 0;
 }
 
